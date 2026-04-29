@@ -1,5 +1,6 @@
 # wesley.dev loading...
 
-<img width="2944" height="1656" alt="idk" src="https://github.com/user-attachments/assets/f1222af0-7d99-4636-a467-f3dc8d3431cf" />
+<img width="736" height="414" alt="rain" src="https://github.com/user-attachments/assets/6a4fec99-88f4-4e0f-a558-dcb2b895840b" />
+
 
 Estudando python
